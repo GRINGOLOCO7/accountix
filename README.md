@@ -43,7 +43,7 @@ Note, to change the model just chnage the name for example go ttry with `gemini-
 4. Activate it: `source env/bin/activate`
 5. Install dependencies: `pip install opencv-python pandas python-dotenv Pillow google-generativeai`
 6. Move to GEMINI directory: `cd /accountix/GEMINI`
-7. Run code: `python scontrini.py`
+7. Run code: `python main_G.py`
 
 
 ## GOOGLE VISION
