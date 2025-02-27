@@ -50,6 +50,8 @@ Note, to change the model just chnage the name for example go ttry with `gemini-
 
 ### usage
 
+1. install google vision dependency: `pip install `
+
 
 <br>
 <br>
