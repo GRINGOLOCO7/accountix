@@ -66,5 +66,6 @@ Pros and cons of both the APIs:
 | **Requests per Minute (RPM) Before Saturation** | 60  | 180   | 300  | 600  |
 | **Premium Plan Cost** | N/A         | N/A                  | $X/month     | $Y/month             |
 | **Premium Plan RPM**  | N/A         | N/A                  | 600          | 1200                 |
+| **Time to process**   | N/A         | N/A                  | N/A          | N/A                 |
 | **Best Use Case**   | Detailed text extraction | Fast bulk processing | High-accuracy extraction | Large-scale processing |
 
