@@ -12,7 +12,7 @@ genai.configure(api_key=GEMINI_API)
 model = genai.GenerativeModel("gemini-1.5-pro")
 
 # Load image
-image = cv2.imread("assets/scontrino1.jpg")  # Use cropped image if necessary
+image = cv2.imread("../assets/scontrino2.jpg")  # Use cropped image if necessary
 image = PIL_Image.fromarray(image)  # Convert cv2 image to PIL Image
 
 # Prepare prompt
